@@ -73,7 +73,12 @@ export default function RootLayout({
         <Script
           src="/player.js"
           strategy="afterInteractive"
-          data-website-id="39d96cb2-b9d4-4aa8-a362-720de21f7e67"
+          data-website-id="153b902e-bb8b-4a56-be74-d554d9719c18"
+        />
+        <Script
+          src="/recorder.js"
+          strategy="afterInteractive"
+          data-website-id="153b902e-bb8b-4a56-be74-d554d9719c18"
         />
       </body>
     </html>
