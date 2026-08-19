@@ -15,7 +15,7 @@
   "dependencies": {
     "@opennextjs/cloudflare": "^1.18.0",
     "@tabler/icons-react": "^3.41.1",
-    "next": "^16.2.2",
+    "next": "^16.3.1",
     "react": "^19.2.4",
     "react-dom": "^19.2.4"
   },
@@ -26,9 +26,9 @@
     "@types/react-dom": "^19.2.3",
     "eslint": "^9.39.4",
     "eslint-config-next": "^16.2.2",
-    "postcss": "^8.5.8",
+    "postcss": "^8.5.23",
     "tailwindcss": "^4.2.2",
     "typescript": "^6.0.2",
-    "wrangler": "^4.80.0"
+    "wrangler": "^4.124.0"
   }
 }
